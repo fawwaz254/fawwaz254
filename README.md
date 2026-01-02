@@ -1,18 +1,28 @@
-# Hi 👋, I'm Fawwaz Nafi Mubarok
-
-🎓 Informatics Student  
-💻 Web Developer | Software Engineering Enthusiast  
-🚀 Interested in Backend Development, System Analysis, and Software Testing
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Fawwaz+Nafi+Mubarok;Informatics+Student;Web+Developer;Software+Engineering+Enthusiast" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-I'm an Informatics student who actively builds web-based systems for academic projects and self-learning.  
-I enjoy turning requirements into structured systems, implementing clean CRUD logic, and testing applications to ensure quality.
+## 👋 About Me
+🎓 Informatics Student  
+💻 Web Developer | Software Engineering Enthusiast  
+🚀 Interested in Backend Development, System Analysis, and Software Testing  
+
+I enjoy building structured web applications, implementing clean CRUD logic, and ensuring software quality through testing.
+
+---
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fawwaz254&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
+
 ### Programming & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -32,39 +42,33 @@ I enjoy turning requirements into structured systems, implementing clean CRUD lo
 
 ## 🚀 Featured Projects
 💰 **Money Management App**  
-Web-based application for monthly budgeting and savings management.
+Web-based budgeting & savings management system.
 
 🚗 **Car Sale Website (PHP MVC)**  
-Admin & user authentication, CRUD products, Cypress testing.
+Authentication, CRUD products, Cypress testing.
 
 📊 **Decision Support System Dashboard**  
-Sales analysis dashboard using Business Intelligence concepts.
-
----
-
-## 🧪 Software Testing
-- Unit & Functional Testing
-- Cypress End-to-End Testing
-- Test Case Documentation
-
----
-
-## 📚 Currently Learning
-- Software Testing & QA
-- Backend Optimization
-- Docker & Service Integration
-- System Analysis (BPMN, DSS)
+Sales analysis using Business Intelligence concepts.
 
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fawwaz254&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fawwaz254&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fawwaz254&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawwaz254&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-📧 Email: fawwaznafi562@gmail.com  
+## 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/fawwaz254/fawwaz254/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github.com/fawwaz254/fawwaz254/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation"
+    src="https://github.com/fawwaz254/fawwaz254/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
